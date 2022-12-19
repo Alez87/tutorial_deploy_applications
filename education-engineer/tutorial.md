@@ -152,7 +152,7 @@ status:
 
 Some explainations about the configuration  files:
 - *web* is the deployment and service name
-- *nodePort* indicates the cluster exposes externaly the application as a static port on any nodes' IP
+- *nodePort* indicates the cluster exposes externally the application as a static port on any nodes' IP
 - *port: 8080* means you can reach the application on the port 8080
 
 
